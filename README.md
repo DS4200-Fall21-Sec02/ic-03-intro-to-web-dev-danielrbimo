@@ -2,13 +2,13 @@
 
 This repository is your starting point for this in-class assignment. 
 
-Link to your GitHub pages website: `[insert your clickable hyperlink here]`
+Link to your GitHub pages website: `https://github.com/DS4200-Fall21-Sec02/ic-03-intro-to-web-dev-danielrbimo`
 
 # Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, HTML, and D3. 
 
 # Instructions 
-1. Edit near the top of this `README.md` file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `[insert your clickable hyperlink here]` `` code with your markdown. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).) Note: you will need to make your repository public for pages to work. 
+1. Edit near the top of this `README.md` file to include a clickable hyperlink to the GitHub page website for your repo., replacing the `` `https://github.com/DS4200-Fall21-Sec02/ic-03-intro-to-web-dev-danielrbimo` `` code with your markdown. (Detailed instructions for GitHub pages [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages).) Note: you will need to make your repository public for pages to work. 
 
 1. Navigate to the [HTML Page on w3schools](https://www.w3schools.com/html/default.asp). On the left-hand side of the page there is a menu bar. Go through the following portions of the HTML tutorial: 
    - HTML Introduction
